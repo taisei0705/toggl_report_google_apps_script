@@ -2,9 +2,9 @@
 
 Set the following
 
-- EMAIL
+- EMAIL  
 Use the mail address registered in toggl
-- WORKSPACE_ID
+- WORKSPACE_ID  
 ID is listed at the end of the summary URL
 https://toggl.com/app/reports/summary/***
 - TOGGL_API_KEY
